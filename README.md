@@ -20,7 +20,7 @@ This is a simple Note Taker application that allows users to add, view saved not
 * run 'npm i express'
 * run 'npm i uuid'
 * in terminal run again
-* npm 'npm start' then navigate to localhost environment - http://localhost:3000/
+* npm 'npm start' then navigate to localhost environment `http://localhost:3000/`
 
 ## Clone Repository
 
